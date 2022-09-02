@@ -1,0 +1,12 @@
+{
+  "name": "proyecto6_openbootcamp",
+  "version": "1.0.0",
+  "description": "Trabajando con listas",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MaKarioVG",
+  "license": "ISC"
+}
